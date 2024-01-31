@@ -1,5 +1,5 @@
 # OBSA-60UK 霍尔开关（替换微动）
-该开关对 **LHS7F** 等 **OBSA-60UK** 三和按键附带微动进行整体替换，在保留了原有开关功能与灯光控制的基础上增加了对触发键程的调整支持**\(使用精密可调电位器\)**。<br>
+该开关对 **LHS7F** 等 **OBSA-60UK** 三和按键附带微动进行整体替换，在保留了原有开关功能与灯光控制的基础上增加了对触发键程的调整支持(使用精密可调电位器)。<br>
 <img src="https://sabulabuqu.top/hallswitchimg/profile.jpg" />
 ## 制作成本（单个开关）
 | 名称 | 封装属性 | 价格 |
@@ -26,4 +26,4 @@
 ## 链接
 
 - 嘉立创项目分享：[嘉立创-霍尔按键](https://oshwhub.com/sabulabuqu/ongeki-huo-er-an-jian)
-- 具体视频可见：[BILIBILI-霍尔按键]()
+- 具体视频可见：[BILIBILI-霍尔按键](https://www.bilibili.com/video/BV1KC411z7WS/)
