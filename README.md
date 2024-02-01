@@ -25,5 +25,5 @@
 
 ## 链接
 
-- 嘉立创项目分享：[嘉立创-霍尔按键](https://oshwhub.com/sabulabuqu/ongeki-huo-er-an-jian)（或使用仓库内本地项目文件）
+- 嘉立创项目分享：[嘉立创-霍尔按键](https://oshwhub.com/sabulabuqu/ongeki-huo-er-an-jian)（或使用仓库内本地项目文件,使用嘉立创EDAPRO）
 - 具体视频可见：[BILIBILI-霍尔按键](https://www.bilibili.com/video/BV1KC411z7WS/)
